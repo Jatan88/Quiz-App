@@ -22,3 +22,6 @@ The endpoints include:
 
 
 The model exports the app object to be used in the main program file.
+
+# Postman Testing Video
+

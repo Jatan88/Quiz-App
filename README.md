@@ -1,1 +1,2 @@
-# School-API
+# Quiz App API
+
